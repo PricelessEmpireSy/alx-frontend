@@ -1,0 +1,7 @@
+<img src="https://img.freepik.com/premium-photo/double-exposure-image-many-business-people_31965-2289.jpg?w=1380" alt="pictures">
+
+img{
+   width: 300px;
+   height: 200px;
+   border: 2px olid black;
+}

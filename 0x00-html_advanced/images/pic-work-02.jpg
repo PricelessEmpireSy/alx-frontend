@@ -1,0 +1,7 @@
+<img src="https://media.istockphoto.com/id/1724266333/photo/university-students-in-campus-talking-to-professor-and-using-laptop-for-better-understanding.jpg?s=1024x1024&w=is&k=20&c=j3Jqs4eIxX6YKbTlEDVGs2B2K2aiB0y3OJ_CTeQOCTM=" alt="pictures">
+
+img{
+   width: 300px;
+   height: 200px;
+   border: 2px olid black;
+}

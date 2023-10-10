@@ -1,0 +1,7 @@
+<img src="https://media.istockphoto.com/id/1436951314/photo/business-woman-talking-to-her-colleagues-during-a-meeting-in-a-boardroom.jpg?s=1024x1024&w=is&k=20&c=r_DbXXpKycHmN4I4ggxeg8mMY_iLwaIsRHCnrUU6cI4=" alt="pictures">
+
+img{
+   width: 300px;
+   height: 200px;
+   border: 2px olid black;
+}

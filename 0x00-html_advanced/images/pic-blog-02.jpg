@@ -1,0 +1,7 @@
+<img src="https://media.istockphoto.com/id/1476003770/photo/smiling-black-woman-checking-her-smartphone-while-having-breakfast.jpg?s=1024x1024&w=is&k=20&c=XQWMAxiBpefmpZDszCzxLShtH4wLBAU48w5bF513GgE=" alt="pictures">
+
+img{
+   width: 300px;
+   height: 200px;
+   border: 2px olid black;
+}

@@ -1,0 +1,7 @@
+<img src="https://media.istockphoto.com/id/637048048/photo/mockup-copy-space-blank-screen-concept.jpg?s=1024x1024&w=is&k=20&c=E6J6b_bqGDz4IKVk5YTUoNK4vGkVIdM9adwzhDOx570=" alt="pictures">
+
+img{
+   width: 300px;
+   height: 200px;
+   border: 2px olid black;
+}

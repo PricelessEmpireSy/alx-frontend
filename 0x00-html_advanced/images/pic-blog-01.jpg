@@ -1,0 +1,7 @@
+<img src="https://media.istockphoto.com/id/1371081862/photo/digital-wording-on-wooden-cubes-with-education-icons.jpg?s=1024x1024&w=is&k=20&c=nLajWlTwRsUwrDHYIQ7SkYu5HbHlsSZi9n0p2lXE1RQ=" alt="pictures">
+
+img{
+   width: 300px;
+   height: 200px;
+   border: 2px olid black;
+}

@@ -1,0 +1,7 @@
+<img src="https://media.istockphoto.com/id/1146554418/photo/retro-blog-bookshelf-with-cozy-interior.jpg?s=1024x1024&w=is&k=20&c=_nx8wQWbz6kP_MsYTvexxgYH7J3S8RT97JIzDx04fTI=" alt="pictures">
+
+img{
+   width: 300px;
+   height: 200px;
+   border: 2px olid black;
+}
