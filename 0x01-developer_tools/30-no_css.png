@@ -1,0 +1,7 @@
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F16237037%2F83339889-bf0b9900-a2da-11ea-859b-b26855eaecfe.png&tbnid=v6tN49WJKSMP4M&vet=12ahUKEwidsqbh7-6BAxWomIkEHStZC40QMygBegQIARA1..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fjllorencetti%2Fpets%2Fissues%2F81&docid=DjyA2cZX6q-jHM&w=1360&h=664&q=30-no_css.png&ved=2ahUKEwidsqbh7-6BAxWomIkEHStZC40QMygBegQIARA1" alt="pictures">
+
+img{
+   width: 300px;
+   height: 200px;
+   border: 2px olid black;
+}

@@ -1,0 +1,7 @@
+<img src="https://pngtree.com/freepng/live-news-button-camera_6489339.html" alt="pictures">
+
+img{
+   width: 300px;
+   height: 200px;
+   border: 2px olid black;
+}

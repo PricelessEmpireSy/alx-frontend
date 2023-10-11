@@ -1,0 +1,7 @@
+<img src="https://dev-tools.alx-tools.com/" alt="pictures">
+
+img{
+   width: 300px;
+   height: 200px;
+   border: 2px olid black;
+}

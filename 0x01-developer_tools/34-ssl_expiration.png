@@ -1,0 +1,7 @@
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ftrackssl.com%2Fwp-content%2Fuploads%2F2022%2F05%2FScreen-Shot-2022-05-22-at-4.22.05-PM-1.png&tbnid=-Kvc6SuToAeu1M&vet=12ahUKEwi2s7bX8O6BAxVNvokEHWKfA6IQMygBegQIARA1..i&imgrefurl=https%3A%2F%2Ftrackssl.com%2F&docid=GoH9YFx8MpKIDM&w=2542&h=1454&q=34-ssl_expiration.png&ved=2ahUKEwi2s7bX8O6BAxVNvokEHWKfA6IQMygBegQIARA1" alt="pictures">
+
+img{
+   width: 300px;
+   height: 200px;
+   border: 2px olid black;
+}

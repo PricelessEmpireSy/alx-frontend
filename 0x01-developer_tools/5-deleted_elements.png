@@ -1,0 +1,7 @@
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpng.pngtree.com%2Felement_our%2F20190528%2Fourmid%2Fpngtree-delete-icon-image_1129289.jpg&tbnid=HjE0Ur-GgioWzM&vet=12ahUKEwiztpnJ8e6BAxXFpCcCHStwAZoQMygAegQIARAz..i&imgrefurl=https%3A%2F%2Fpngtree.com%2Fso%2Fdelete&docid=WSGHb1y3TkrNsM&w=360&h=360&q=5-deleted%20elements.png&ved=2ahUKEwiztpnJ8e6BAxXFpCcCHStwAZoQMygAegQIARAz" alt="pictures">
+
+img{
+   width: 300px;
+   height: 200px;
+   border: 2px olid black;
+}

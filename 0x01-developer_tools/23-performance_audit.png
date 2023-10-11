@@ -1,0 +1,7 @@
+<img src="https://github.com/Dchedos/alx-frontend/commit/040410035ae6d3f877fb5922a7c5356f4adf55e0" alt="pictures">
+
+img{
+   width: 300px;
+   height: 200px;
+   border: 2px olid black;
+}
